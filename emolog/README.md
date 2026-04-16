@@ -1,7 +1,7 @@
 # Emolog: Emotional Support & Mood Tracking Service
 
 <p align="center">
-  <img src="images/logo.png" width="300" alt="Emolog Logo">
+  <img src="assets/images/logo.png" width="300" alt="Emolog Logo">
 </p>
 
 **Emolog**는 사용자의 감정 표현을 돕고 정신적 웰빙을 증진하기 위해 개발된 HCI(Human-Computer Interaction) 기반 서비스입니다. 대화형 AI와 멀티모달 감정 분석을 결합하여, 사용자가 자신의 기분을 기록하는 것을 넘어 감정의 원인을 성찰하고 조절할 수 있도록 돕습니다.
@@ -38,7 +38,7 @@
 ---
 
 ## 🎨 Design System
-<img src="images/positive.png" width="300" alt="Design System"><img src="images/neutral.png" width="300" alt="Design System"><img src="images/negative.png" width="300" alt="Design System">
+<img src="assetsimages/positive.png" width="300" alt="Design System"><img src="assetsimages/neutral.png" width="300" alt="Design System"><img src="assetsimages/negative.png" width="300" alt="Design System">
 - 사용자에게 편안함을 주는 컬러 팔레트와 일관된 UI 컴포넌트를 사용하여 심리적 안정감을 제공합니다. 
 
 ---
