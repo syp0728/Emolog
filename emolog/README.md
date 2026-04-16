@@ -38,7 +38,7 @@
 ---
 
 ## 🎨 Design System
-<img src="assetsimages/positive.png" width="300" alt="Design System"><img src="assetsimages/neutral.png" width="300" alt="Design System"><img src="assetsimages/negative.png" width="300" alt="Design System">
+<img src="assets/images/positive.png" width="300" alt="Design System"><img src="assets/images/neutral.png" width="300" alt="Design System"><img src="assets/images/negative.png" width="300" alt="Design System">
 - 사용자에게 편안함을 주는 컬러 팔레트와 일관된 UI 컴포넌트를 사용하여 심리적 안정감을 제공합니다. 
 
 ---
