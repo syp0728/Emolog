@@ -1,3 +1,6 @@
+# 자꾸 git add가 안되게 괴롭혀서 .DS_Store 파일을 숨김처리함. 
+.DS_Store
+
 # Miscellaneous
 *.class
 *.log
